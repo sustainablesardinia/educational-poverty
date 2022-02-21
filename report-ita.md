@@ -1,5 +1,6 @@
-<center><img src="https://avatars.githubusercontent.com/u/76561046?s=400&u=5dc596f9b8a10b518eb7bf2940ead4fffddc5d73&v=4" width="5%"></center>
-<center>Sustainable Sardinia</center>
+<p align="center">
+    <img src="https://i.ibb.co/XSr6qMD/logo.jpg" alt="logo-small" width="100px" border="0">
+</p>
 
 # La povertà educativa in Sardegna: una fotografia dalla Città Metropolitana di Cagliari
 
