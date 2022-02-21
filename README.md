@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/XSr6qMD/logo.jpg" alt="logo-small" width="100px" border="0">
+    <img src="https://github.com/sustainablesardinia/manifesto/raw/master/logo-with-name-small.png" alt="logo-small" width="100px" border="0">
 </p>
 
 # Educational poverty in Sardinia
