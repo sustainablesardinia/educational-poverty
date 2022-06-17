@@ -1,4 +1,4 @@
-# Bibriografia
+# Bibliografia
 
 Openpolis - Con i bambini (2019) "Le mappe della povertà educativa".
 [Online](https://www.openpolis.it/wp-content/uploads/2019/11/Le-mappe-della-povert%C3%A0-educativa_.pdf)
